@@ -1,4 +1,4 @@
-﻿1
+1
 0:00:00.210 --> 0:00:04,740
 Nuestro siguiente punto en agenda
 
@@ -84,7 +84,7 @@ tengo el placer de participar en
 
 22
 0:01:24.370 --> 0:01:27,580
-su expedición a la altura de la
+su expedición hacia la alta
 
 23
 0:01:27.580 --> 0:01:30,790
@@ -112,11 +112,11 @@ campo de la innovación y puedo repetir la mayoría
 
 29
 0:01:44.650 --> 0:01:46,960
-de ellos a usted porque son bastante cortés
+de ellos a ustedes porque son bastante educados.
 
 30
 300:01:46.960 --> 0:01:48,970
-usted sabe que el economista me llamó
+Ustedes saben que The Economist me llamó
 
 31
 0:01:48.970 --> 0:01:52,600
@@ -124,7 +124,7 @@ Mr. Creatividad, pero el apodo que
 
 32
 0:01:52.600 --> 0:01:54,640
-me gusta lo mejor que quizás te dará
+me gusta lo mejor que quizás dará
 
 33
 0:01:54.640 --> 0:01:57,460
@@ -160,7 +160,7 @@ decidimos darte un apodo
 
 41
 0:02:17.380 --> 0:02:24,340
-que eres la innovación sherpa ahora por
+que eres un "Innovador Sherpa" ahora
 
 42
 0:02:24.340 --> 0:02:26,950
@@ -169,32 +169,32 @@ supuesto que eres un país que sabe
 0:02:26.950 --> 0:02:28,959
 mucho sobre las montañas que traje una montaña
 
-0:02:28.959,0:02:29.709
+0:02:28.959 --> 0:02:29,709
 conmigo
 
-0:02:29.709,0:02:31.720
+0:02:29.709 --> 0:02:31,720
 Monte Everest montaña diferente pero
 
-0:02:31.720,0:02:34.390
+0:02:31.720 --> 0:02:34,390
 pero cuando se sube a una montaña y no
 
-0:02:34.390,0:02:37.989
+0:02:34.390 --> 0:02:37,989
 tiene un mapa que a menudo necesitan un guía y
 
-0:02:37.989,0:02:40.090
+0:02:37.989 --> 0:02:40,090
 el guía con suerte tiene un mapa sabe cómo
 
-0:02:40.090,0:02:42.280
-to get to the top of the mountain so in
+0:02:40.090 --> 0:02:42,280
+llegar a la cima de la montaña por lo que en
 
-0:02:42.280,0:02:45.280
-my own work working with startups with
+0:02:42.280 --> 0:02:45,280
+mi propio trabajo de trabajo con las primeras empresas 
 
-0:02:45.280,0:02:48.519
-mature companies with governments around
+0:02:45.280 --> 0:02:48,519
+con empresas maduras con los gobiernos de todo 
 
-0:02:48.519,0:02:49.750
-the world
+0:02:48.519 --> 0:02:49,750
+el mundo.
 
 0:02:49.750,0:02:52.150
 I've been able to put together my own
