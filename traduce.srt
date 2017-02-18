@@ -217,82 +217,82 @@ porque me gusta como digo mover a las personas
 0:03:09.190 --> 0:03:11.560
 y organizaciones de la comprensión
 
-0:03:11.560 --> 0:03:12.170
+0:03:11.560 --> 0:03:12,170
 del
 
-0:03:12.170 --> 0:03:14.390
+0:03:12.170 --> 0:03:14,390
 océano innovador. Que es lo que podría decir 
 
-0:03:14.390 --> 0:03:17.209
+0:03:14.390 --> 0:03:17,209
 para realmente conseguirlo
 
-0:03:17.209 --> 0:03:19.640
+0:03:17.209 --> 0:03:19,640
 Usted acaba de decir que la innovación es
 
-0:03:19.640 --> 0:03:21.980
+0:03:19.640 --> 0:03:21,980
 es importante que se obtiene a cierto plazo
 
-0:03:21.980 --> 0:03:25.550
+0:03:21.980 --> 0:03:25,550
 pero para mí la innovación es en realidad un conjunto muy
 
-0:03:25.550 --> 0:03:29.480
+0:03:25.550 --> 0:03:29,480
 específico de prácticas de sus acciones
  
-0:03:29.480 --> 0:03:32.330
+0:03:29.480 --> 0:03:32,330
 sus acciones sus habilidades que operan a
 
-0:03:32.330 --> 0:03:35.060
+0:03:32.330 --> 0:03:35,060
 nivel individual de la empresa y el
 
-0:03:35.060 --> 0:03:36.830
+0:03:35.060 --> 0:03:36,830
 nivel social
 
-0:03:36.830 --> 0:03:39.319
+0:03:36.830 --> 0:03:39,319
 Ok así que quiero ser capaz de compartir parte de
 
-0:03:39.319 --> 0:03:41.300
+0:03:39.319 --> 0:03:41,300
 ese conocimiento con ustedes hoy porque
 
-0:03:41.300,0:03:42.920
+0:03:41.300 --> 0:03:42,920
 cuando se sube a una montaña
 
-0:03:42.920,0:03:46.100
+0:03:42.920 --> 0:03:46,100
 obviamente necesita tener el equipo adecuado 
 
-0:03:46.100,0:03:49.819
+0:03:46.100 --> 0:03:49,819
 y también las habilidades adecuadas, muchos países
 
-0:03:49.819,0:03:52.489
+0:03:49.819 --> 0:03:52,489
 countries by the way are trying to find
 
-0:03:52.489,0:03:55.519
+0:03:52.489 --> 0:03:55,519
 the high ground of innovation I i think
 
-0:03:55.519,0:03:57.230
+0:03:55.519 --> 0:03:57,230
 there are probably at least 50 countries
 
-0:03:57.230,0:04:00.290
+0:03:57.230 --> 0:04:00,290
 that have some form of a national chief
 
-0:04:00.290,0:04:03.080
+0:04:00.290 --> 0:04:03,080
 innovation officer and innovation agency
 
-0:04:03.080,0:04:06.620
+0:04:03.080 --> 0:04:06,620
 and national innovation strategy in our
 
-0:04:06.620,0:04:08.209
+0:04:06.620 --> 0:04:08,209
 colleagues that oecd have done a great
 
-0:04:08.209,0:04:11.030
+0:04:08.209 --> 0:04:11,030
 job of documenting and what is going on
 
-0:04:11.030,0:04:13.310
+0:04:11.030 --> 0:04:13,310
 around the world this is a global
 
-0:04:13.310,0:04:15.799
+0:04:13.310 --> 0:04:15,799
 movement so many countries are engaged
 
-0:04:15.799,0:04:17.720
+0:04:15.799 --> 0:04:17,720
 in the notion of finding this high
 
 0:04:17.720,0:04:20.600
@@ -3889,8 +3889,8 @@ propósito de usted no Simba taba
 0:58:19.549,0:58:22.069
 affinia muchisimas gracias por su
 
-0:58:22.069,0:58:24.380
+0:58:22.069 --> 0:58:24,380
 presentacion de este dia en nuestra
 
-0:58:24.380,0:58:33.919
+0:58:24.380 --> 0:58:33,919
 sociedad la for the plan
